@@ -1,0 +1,1 @@
+INSERT INTO `lineaspedido` (`identificador`, `pedidos_fecha`, `productos_nombre`, `cantidad`) VALUES (NULL, '1', '1', '4')

@@ -1,0 +1,4 @@
+RENAME TABLE 
+`empresa`.`mis usuarios`
+ TO 
+`empresa`.`usuarios`
